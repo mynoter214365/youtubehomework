@@ -1,0 +1,49 @@
+.active {
+  height: 56px;
+  padding: 16px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.login {
+  border: solid 1px blue;
+  display: flex;
+  width: 100px;
+  height: 30px;
+  border-radius: 5px;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+  margin-right: 30px;
+  color: blue;
+  cursor: pointer;
+}
+header {
+  display: flex;
+  justify-content: space-between;
+}
+.right {
+  display: flex;
+}
+input {
+  width: 500px;
+  height: 40px;
+  margin-left: 34px;
+  cursor: text;
+  font-size: 20px;
+}
+#center {
+  width: 607px;
+  height: 68x;
+  display: flex;
+  align-items: center;
+}
+.search {
+  display: grid;
+  grid-template-columns: 6fr 1fr;
+}
+.surf {
+  border: solid 1px black;
+  width: 62x;
+  height: 40px;
+}

@@ -1,0 +1,166 @@
+.item div {
+  border: solid 0px black;
+  width: 220px;
+  height: 40px;
+  padding-left: 24px;
+  padding-right: 24px;
+  font-size: 16px;
+  display: flex;
+  align-items: center;
+}
+.item {
+  width: 230px;
+}
+.instead {
+  padding: 100px;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  gap: 30px;
+  padding-top: 10px;
+  padding-left: 30px;
+  background-color: #f8f8f8;
+}
+.wrapper {
+  display: grid;
+  grid-template-columns: 1fr 5fr;
+}
+.item div:hover {
+  cursor: pointer;
+  background-color: grey;
+}
+.wrapper {
+  border-bottom: 2px solid black;
+}
+#goodok {
+  border-bottom: 1px solid black;
+}
+#see {
+  border-bottom: 1px solid black;
+}
+#writter {
+  height: 120px;
+  border-bottom: 1px solid black;
+  display: grid;
+  margin-top: 20px;
+}
+#login2 {
+  border: solid 1px blue;
+  width: 97px;
+  height: 37px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 5px;
+  padding: 0px;
+  color: blue;
+  margin-bottom: 140px;
+}
+.article {
+  border: solid 2px black;
+  padding: 20px;
+  display: grid;
+  grid-template-columns: 1fr 5fr;
+}
+.connect {
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
+  padding: 0px;
+  display: grid;
+  grid-template-columns: repeat(10, 1fr);
+  display: flex;
+  justify-content: center;
+}
+.connect div {
+  border: solid 2px black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 10px;
+  width: 52px;
+  height: 32px;
+  border-radius: 16px;
+  background-color: #f8f8f8;
+}
+#every {
+  background-color: black;
+  color: white;
+}
+#size {
+  width: 110px;
+}
+.youtubevideo {
+  display: flex;
+  justify-content: space-between;
+}
+#explain {
+  font-size: 5px;
+  color: gray;
+  padding-left: 50px;
+}
+#information {
+  font-size: 5px;
+  color: gray;
+  padding-left: 50px;
+}
+.music {
+  margin-top: 10px;
+}
+#youtube360video {
+  border-bottom: 1px solid black;
+}
+#youtubechanelsearch {
+  border-bottom: 1px solid black;
+}
+.youtubemore {
+  font-size: 15px;
+}
+#youtubetv {
+  border-bottom: 1px solid black;
+}
+#option {
+  border-bottom: 1px solid black;
+}
+.title {
+  font-size: 15px;
+}
+.title2 {
+  padding-right: 35px;
+  font-size: 15px;
+}
+#explain1 {
+  font-size: 5px;
+  color: gray;
+  padding-right: 50px;
+}
+#information1 {
+  font-size: 5px;
+  color: gray;
+  padding-right: 50px;
+}
+.title4 {
+  padding-right: 10px;
+  font-size: 15px;
+}
+.title5 {
+  font-size: 10px;
+}
+.color {
+  color: grey;
+  padding-left: 50px;
+}
+.size {
+  font-size: 15px;
+}
+.navon {
+  font-size: 15px;
+  padding-left: 20px;
+}
+.navdown {
+  font-size: 15px;
+  padding-left: 20px;
+  margin-top: 40px;
+}
+.title8 {
+  font-size: 15px;
+  padding-right: 100px;
+}
